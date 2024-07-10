@@ -1,6 +1,6 @@
-package com.github.lucasbarbosaalves.plannerapi.entity.trip;
+package com.github.lucasbarbosaalves.plannerapi.entity;
 
-import com.github.lucasbarbosaalves.plannerapi.entity.trip.dto.TripRequestPayload;
+import com.github.lucasbarbosaalves.plannerapi.dto.TripRequestPayload;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;

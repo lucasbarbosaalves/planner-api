@@ -1,4 +1,4 @@
-package com.github.lucasbarbosaalves.plannerapi.entity.trip.dto;
+package com.github.lucasbarbosaalves.plannerapi.dto;
 
 import java.util.List;
 
